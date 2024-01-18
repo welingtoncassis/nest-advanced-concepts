@@ -1,8 +1,8 @@
 {
   "name": "nest-advanced-concepts",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Complex scenarios in modern Node applications",
+  "author": "welingtoncassis",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
